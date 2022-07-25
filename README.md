@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aalassv "Israel"
-- 👀 I’m interested in learn and share my coding skills to acomplish my full stack career
-- 🌱 I’m currently learning with Code Your Future Charity in UK, Scotland, Glasgow.
-- 💞️ I’m looking to collaborate on beginers projects to develop my skill at coding.
+- 👀 I’m interested in learn and share my coding skills as a full stack web developer
+- 🌱 I graduated as a full stack web developer on February 2022 with CodeYourFuture Organization in the UK, Scotland, Glasgow.
+- 💞️ I’m looking to collaborate on projects to ;continue develop my skill at coding.
 - 📫 How to reach very easy: a.alas.sv@gmail.com
 
 <!---
