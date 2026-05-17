@@ -58,7 +58,7 @@ Every project above is real production software, still running today. That's wha
 ## 📬 Get in touch
 
 - 📧 a.alas.sv@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 💼 [LinkedIn](https://linkedin.com/in/alejandro-alas-/)
 - 📍 Glasgow, Scotland — open to hybrid and remote roles
 
 <!---
