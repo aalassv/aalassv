@@ -27,7 +27,7 @@ I build production-grade web applications for community organisations across Sco
 ## 🚀 Featured projects
 
 ### 🥫 Castlemilk Pantry — Membership & operations system
-*React · Node.js · PostgreSQL · Twilio SMS · Pro bono*
+*React · Node.js · PostgreSQL · SMSWorks · Pro bono*
 
 Manages 350+ members with automated check-ins, expiry alerts, QR code scanning, and SMS notifications. Automated quarterly funder reporting that previously took **one full working day per week**.
 
