@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro Alas 👋
 
-**Full Stack Software Engineer · Glasgow, Scotland**
+**Full Stack Web Developer · Glasgow, Scotland**
 
 I build production-grade web applications for community organisations across Scotland — turning manual, paper-based processes into scalable digital systems that create real social impact. Currently studying BSc Software Engineering at the University of Glasgow.
 
@@ -49,7 +49,7 @@ Full booking and scheduling system built as a graduate project for a Glasgow cha
 
 ## 🌍 My story
 
-I spent 10 years as an IT Manager across El Salvador and Guatemala — overseeing infrastructure, data networks, and a biometric payroll system for 1,500 employees. After relocating to Scotland, I retrained as a full stack developer and chose to give my skills back to the communities that welcomed me.
+I spent 16 years as an IT Manager across El Salvador and Guatemala — overseeing infrastructure, data networks, and a biometric payroll system for 1,500 employees. After relocating to Scotland, I retrained as a full stack developer and chose to give my skills back to the communities that welcomed me.
 
 Every project above is real production software, still running today. That's what drives my work. I hold a CCNA and am currently completing a BSc in Software Engineering at the University of Glasgow.
 
